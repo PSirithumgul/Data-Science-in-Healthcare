@@ -1,3 +1,4 @@
+# This Python code snippet is used for eliminating NULLs and blanks in columns 'ca' and 'thal'.
 import pandas as pd
 
 # Load the dataset
